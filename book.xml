@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding="utf-8"?>
+
+        <root>
+
+         <Book Id = "1" Name="smerfy" Cat="Admin" Status="dostepna" />
+
+         <Book Id = "2" Name="gumisie" Cat="User" Status="wypozyczona" />
+
+         <Book Id = "3" Name="scooby-doo" Cat="User" Status="zarezerwowana" />
+
+        </root>
